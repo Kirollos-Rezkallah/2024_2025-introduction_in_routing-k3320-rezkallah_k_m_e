@@ -16,6 +16,16 @@ To study OSPF and MPLS protocols, EoMPLS organization mechanisms.
 
 ## Progress of work
 
+### Network diagram
+
+We create a network file according to the scheme presented in laboratory work No. 3.
+
+<p align=center><img src="./imgs/first.png" width=900></p>
+
+С помощью команды `sudo containerlab graph -t mpls.yaml:`
+
+<p align=center><img src="./imgs/map.png" width=900></p>
+
 ### PC1 and Router SPB
 
 <p align=center><img src="./imgs/3.jpg" width=900></p>
